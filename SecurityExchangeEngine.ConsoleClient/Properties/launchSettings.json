@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SecurityExchangeEngine.ConsoleClient": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

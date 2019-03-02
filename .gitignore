@@ -1,0 +1,15 @@
+/SecurityExchangeEngine/bin/*
+/SecurityExchangeEngine/obj/*
+/SecurityExchangeEngine.ConsoleClient/bin/*
+/SecurityExchangeEngine.ConsoleClient/obj/*
+/SecurityExchangeEngine.Data/bin/*
+/SecurityExchangeEngine.Data/obj/*
+/SecurityExchangeEngine.Test/bin/*
+/SecurityExchangeEngine.Test/obj/*
+/.vs/*
+*.lock
+*.dll
+*.deps
+*.pdb
+*.csv
+*.user
